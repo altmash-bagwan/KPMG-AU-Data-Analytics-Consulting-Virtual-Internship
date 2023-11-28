@@ -16,9 +16,10 @@ The KPMG AU Data Analytics Virtual Internship is designed to simulate a real-wor
 * Designed and developed interactive Tableau dashboards, effectively translating complex data findings into 
  visually compelling and easily understandable insights for the client.
 
-#### Dataset : 
-#### Data Cleaning log / Proposing stratagies to mitigate data quality issues : 
-#### Presantation Project Roadmap : 
-#### Data Visulization (Tableaue Dashboard) : https://public.tableau.com/app/profile/altmash.bagwan/viz/Customerbuyinghabit/Dashboard
+### Repository content
 
-Completion Certificate : 
+#### Dataset  
+#### Data Cleaning log / Proposing stratagies to mitigate data quality issues : 
+#### Presantation Project Roadmap / Timeline 
+#### Data Visulization : Tableaue file : Click for Tableaue Public ->>> https://public.tableau.com/app/profile/altmash.bagwan/viz/Customerbuyinghabit/Dashboard
+#### Completion Certificate 
